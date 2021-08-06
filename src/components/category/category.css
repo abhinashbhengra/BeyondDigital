@@ -1,0 +1,44 @@
+.Container1 {
+  position: relative;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.Container1 .card {
+  position: relative;
+  max-width: 300px;
+  height: 220px;
+  background-color: rgb(233, 233, 233);
+
+  margin: 30px 10px;
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.Container1 .card .imgbx {
+  position: relative;
+  width: 260px;
+  height: 0px;
+  top: -60px;
+  /* left: 20px; */
+  z-index: 1;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.6);
+}
+
+.Container1 .card .imgbx img {
+  position: relative;
+  max-width: 100%;
+  border-radius: 4px;
+  top: -40px;
+}
+
+.Container1 .card .content {
+  position: relative;
+  text-align: center;
+}
