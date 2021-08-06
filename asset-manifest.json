@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BeyondDigital/static/css/main.83f0a1aa.chunk.css",
+    "main.js": "/BeyondDigital/static/js/main.5ca40c25.chunk.js",
+    "main.js.map": "/BeyondDigital/static/js/main.5ca40c25.chunk.js.map",
+    "runtime-main.js": "/BeyondDigital/static/js/runtime-main.41e25f3f.js",
+    "runtime-main.js.map": "/BeyondDigital/static/js/runtime-main.41e25f3f.js.map",
+    "static/css/2.8bde8b43.chunk.css": "/BeyondDigital/static/css/2.8bde8b43.chunk.css",
+    "static/js/2.f8c1f238.chunk.js": "/BeyondDigital/static/js/2.f8c1f238.chunk.js",
+    "static/js/2.f8c1f238.chunk.js.map": "/BeyondDigital/static/js/2.f8c1f238.chunk.js.map",
+    "index.html": "/BeyondDigital/index.html",
+    "static/css/2.8bde8b43.chunk.css.map": "/BeyondDigital/static/css/2.8bde8b43.chunk.css.map",
+    "static/css/main.83f0a1aa.chunk.css.map": "/BeyondDigital/static/css/main.83f0a1aa.chunk.css.map",
+    "static/js/2.f8c1f238.chunk.js.LICENSE.txt": "/BeyondDigital/static/js/2.f8c1f238.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e25f3f.js",
+    "static/css/2.8bde8b43.chunk.css",
+    "static/js/2.f8c1f238.chunk.js",
+    "static/css/main.83f0a1aa.chunk.css",
+    "static/js/main.5ca40c25.chunk.js"
+  ]
+}
